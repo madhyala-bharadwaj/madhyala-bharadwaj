@@ -1,5 +1,3 @@
-## Hi there 👋 I am Bharadwaj
-
 ## 📊 Github Statistics
 
 <div align="center">
